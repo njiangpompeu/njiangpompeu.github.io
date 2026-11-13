@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Exemple didàctic: dades reals d'un article i conclusions bilateral vs unilateral</title>
+<title>Estudi del meló ecològic i convencional</title>
 
 <script>
 window.MathJax = {
@@ -159,13 +159,18 @@ window.MathJax = {
 </head>
 <body>
 
-<h1>Exemple didàctic: dades reals d'un article i conclusions bilateral vs. unilateral</h1>
+<h1>Estudi del meló ecològic i convencional</h1>
 
 <div class="box nota">
-  <strong>Context.</strong> Un alumne ha trobat un article original a <em>PubMed</em> que compara el contingut de
-  <strong>licopè (mg/100 g)</strong> en tomàquets ecològics vs. convencionals. L'article dóna
+  <strong>Context.</strong> Jo  Ningning he trobat un article científic en  <em>Google acadèmic</em> que compara el contingut
+  <strong>àcd cafeic i àcids clorogènic (unit min-1/100)</strong> en melons ecològics vs. convencionals. L'article dona
   <strong>mitjana</strong>, <strong>desviació estàndard (SD)</strong> i <strong>mida de mostra (n)</strong>
-  per a cada grup. L'alumne extreu aquestes dades (exemple il·lustratiu):
+  per a cada grup. Pots veure les dades de l'article en la seguent captura de pantalla:
+(ing src="taula.png">):
+<p>la taula anterior prové de l'article científic: </p>
+<p>Ganji, S. M., Singh, H., y Friedman, M. (2019). Phenolic content 
+and antioxidant activity of extracts of 12 melon (Cucumis melo) peel powders prepared from commercial 
+melons. Journal of Food Science, 84(7), 1943–1948. <a href="https://doi.org/10.1111/1750-3841.146662>a/</p>
 </div>
 
 <!-- ============================================================ -->
