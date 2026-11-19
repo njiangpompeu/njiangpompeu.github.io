@@ -167,8 +167,15 @@ window.MathJax = {
   <strong>mitjana</strong>, <strong>desviació estàndard (SD)</strong> i <strong>mida de mostra (n)</strong>
   per a cada grup. Pots veure les dades de l'article en la seguent captura de pantalla:
 (ing src="taula.png">):
-<p>la taula anterior prové de l'article científic: </p>
-<p>Ganji, S. M., Singh, H., y Friedman, M. (2019). Phenolic content 
+<p>la taula anterior prové de l'article científic que citem en estil APA7 que
+és molt utilitzat en educació i psicologia perquè va ser creat per la Associació 
+Americana de Psicòlegs. En la seva setena edició. En enginyeria s'utilitza l'estil de 
+cites IEEE que és de l'institit de enginyers  elèctric i electrònic. 
+Publicar en una revista d'aquestes pot suposar uns tres mil 3.000$ hi ha alguna revsutes gratuites 
+i algunes revistes híbrides  que pots decidir pagar o no pagar. Si pagues tothom té accés a la 
+revista només al teu article concret, i si no ho fas les persones han de pagar per veure'l (article)
+</p>
+Ganji, S. M., Singh, H., y Friedman, M. (2019). Phenolic content 
 and antioxidant activity of extracts of 12 melon (Cucumis melo) peel powders prepared from commercial 
 melons. Journal of Food Science, 84(7), 1943–1948. <a href="https://doi.org/10.1111/1750-3841.146662>a/</p>
 </div>
